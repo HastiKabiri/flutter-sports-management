@@ -1,0 +1,6 @@
+{
+  "dockyFolder": "docky",
+  "mappings": {
+    "lib\\main.dart": "docky\\lib\\main.md"
+  }
+}

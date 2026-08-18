@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "53523258074",
+    "project_id": "jm-hockey",
+    "storage_bucket": "jm-hockey.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53523258074:android:7134af1685eccb1ad663e3",
+        "android_client_info": {
+          "package_name": "com.jm.jm_hockey"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzLdGEpxDF9QkF265NWqEtlqP1BT8d93w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
